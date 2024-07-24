@@ -2,4 +2,5 @@
 - Fix permission & human typo.
 - Coredns works
 **Notice**
-No need update if you're not use coredns.
+No need update if you're not use coredns.## v1.70.0.0
+- Update Tailscale binaries to v1.70.0
